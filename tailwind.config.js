@@ -10,10 +10,11 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        primary: ["Montserrat", "serif"] 
+        primary: ["Montserrat", "serif"],
       },
       colors: {
         "primary-color": "var(--primary-color)",
+        "secondary-color": "var(--secondary-color)",
       },
     },
   },
